@@ -1,2 +1,2 @@
 # LC
-https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fdoocs%2Fleetcode%2Fblob%2Fmain%2FREADME_EN.md%3Ffbclid%3DIwAR27aXaMSg584VaL3EwPTgUZze7TxtGiaqdxV43bzka0aRs0Cd1Gu7JPiqg&h=AT1PzySSYZfR7K3pyZGIqrUfscFpH7qsUBLCcK7rwQOKJsTXK-ye1HCSXCVAKbBiKwDartd_H5pS5KBOJ1cAm2E_RifsFOQFXFGvALDjJCLsa_uMTm580oQWkRds4JQSaha9Q82_Rnt4zp_WLhUtnw
+https://github.com/doocs/leetcode/blob/main/README_EN.md?fbclid=IwAR27aXaMSg584VaL3EwPTgUZze7TxtGiaqdxV43bzka0aRs0Cd1Gu7JPiqg
